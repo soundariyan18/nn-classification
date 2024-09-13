@@ -258,6 +258,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### New Sample Data Prediction
 ![image](https://github.com/user-attachments/assets/1e48ec31-dc5d-4b00-bc2f-b8ec3dc5239d)
+
 ![image](https://github.com/user-attachments/assets/8206d0ba-e835-48a5-ae3c-520b52c4b579)
 
 
